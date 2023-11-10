@@ -1,4 +1,18 @@
-This repo is a backup of BusTub starter code for [CMU15-445/645 Spring 2023](https://15445.courses.cs.cmu.edu/spring2023/). Since the implementation of projects are **disallowed to be public**, I've made my old repo private. For further details about BusTub, see belows.
+This repo is a backup of BusTub starter code, which is the teaching material for [CMU15-445/645 Spring 2023](https://15445.courses.cs.cmu.edu/spring2023/).\
+Since the implementations of projects are **Disallowed To Be Public**, I've made the repo of my implementation private.\
+Welcome to contact me if you have trouble implementing this version, or you may ask at the unofficial [discord channel](https://discord.gg/YF7dMCg).
+
+
+My autograder score (Some total points are not given by Gradescope since I'm not CMU students):
+![image](https://github.com/xyhuang7215/bustub-2023spring/assets/79456998/fc21f2b3-f9c6-49fe-a0ee-828a0ba9f27c)\
+![image](https://github.com/xyhuang7215/bustub-2023spring/assets/79456998/e6ec8b81-f212-41dc-8c99-4de5e825310e)\
+![image](https://github.com/xyhuang7215/bustub-2023spring/assets/79456998/7705a9f4-6838-4d11-ae25-b71850f97339)\
+![image](https://github.com/xyhuang7215/bustub-2023spring/assets/79456998/c88ead27-39f2-4640-bc44-26eef96c8a48)\
+![image](https://github.com/xyhuang7215/bustub-2023spring/assets/79456998/aa106018-d047-452f-9c2d-0982dc47e3b2)\
+![image](https://github.com/xyhuang7215/bustub-2023spring/assets/79456998/bddbc0cd-0f22-4327-bce3-7b474a1b5b46)
+
+Notice that [Fall 2023 version](https://15445.courses.cs.cmu.edu/fall2023/) is available, but it's not in my plan for now :sweat:.\
+For further details about BusTub, see belows.
 ##
 <img src="logo/bustub-whiteborder.svg" alt="BusTub Logo" height="200">
 
