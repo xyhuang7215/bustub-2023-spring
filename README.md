@@ -1,9 +1,9 @@
 This repo is a backup of BusTub starter code, which is the teaching material for [CMU15-445/645 Spring 2023](https://15445.courses.cs.cmu.edu/spring2023/).\
 Since the implementations of projects are **Disallowed To Be Public**, I've made the repo of my implementation private.\
-Welcome to contact me if you have trouble implementing this version, or you may ask at the unofficial [discord channel](https://discord.gg/YF7dMCg).
+Welcome to contact me if you have trouble implementing this version, or you may ask on the unofficial [discord channel](https://discord.gg/YF7dMCg).
 
 
-My autograder score (Some total points are not given by Gradescope since I'm not CMU students):
+My autograder score (Since I'm not a CMU student, some total points are not given by Gradescope ):
 ![image](https://github.com/xyhuang7215/bustub-2023spring/assets/79456998/fc21f2b3-f9c6-49fe-a0ee-828a0ba9f27c)\
 ![image](https://github.com/xyhuang7215/bustub-2023spring/assets/79456998/e6ec8b81-f212-41dc-8c99-4de5e825310e)\
 ![image](https://github.com/xyhuang7215/bustub-2023spring/assets/79456998/7705a9f4-6838-4d11-ae25-b71850f97339)\
